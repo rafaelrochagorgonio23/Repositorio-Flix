@@ -1,0 +1,11 @@
+C:\flix\bin\Debug\netcoreapp2.1\flix.deps.json
+C:\flix\bin\Debug\netcoreapp2.1\flix.runtimeconfig.json
+C:\flix\bin\Debug\netcoreapp2.1\flix.runtimeconfig.dev.json
+C:\flix\bin\Debug\netcoreapp2.1\flix.dll
+C:\flix\bin\Debug\netcoreapp2.1\flix.pdb
+C:\flix\obj\Debug\netcoreapp2.1\flix.csprojAssemblyReference.cache
+C:\flix\obj\Debug\netcoreapp2.1\flix.csproj.CoreCompileInputs.cache
+C:\flix\obj\Debug\netcoreapp2.1\flix.AssemblyInfoInputs.cache
+C:\flix\obj\Debug\netcoreapp2.1\flix.AssemblyInfo.cs
+C:\flix\obj\Debug\netcoreapp2.1\flix.dll
+C:\flix\obj\Debug\netcoreapp2.1\flix.pdb
